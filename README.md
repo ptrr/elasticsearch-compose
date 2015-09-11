@@ -1,3 +1,5 @@
+# Elasticsearch on Docker
+
 build the files with 
 
 `docker-compose build`
