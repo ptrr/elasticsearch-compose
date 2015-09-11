@@ -1,0 +1,4 @@
+es:
+  build: es
+  ports: 
+    - "9200:9200"
